@@ -4,7 +4,7 @@
 
 ## Team Members:
 
-Bobby Szramel - 
+Bobby Szramel - [@RSzramel](https://github.com/RSzramel)
 
 Pushpaja Katepalli - [@KPushpaja](https://github.com/KPushpaja)
 
