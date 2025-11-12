@@ -31,3 +31,10 @@ Columns: year, month, supplier,item code, item description, item type, Retail sa
 Data type: Most of the data is Numeric and Varchar. 
 
 ## Questions:
+
+## Manipulations Added:
+
+## Analysis and Results:
+
+## Snowflake link:
+
