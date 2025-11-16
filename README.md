@@ -22,13 +22,13 @@ Description: This dataset contains a list of sales by the month and calendar yea
 
 Dimensions:
 
-Rows: 308k
+- Rows: 308k
 
-Columns: 9
+- Columns: 9
 
-Columns: year, month, supplier,item code, item description, item type, Retail sales, Retail transfers, and warehouse sales. 
+- Columns: year, month, supplier,item code, item description, item type, Retail sales, Retail transfers, and warehouse sales. 
 
-Data type: Most of the data is Numeric and Varchar. 
+- Data type: Most of the data is Numeric and Varchar. 
 
 ## Questions:
 
