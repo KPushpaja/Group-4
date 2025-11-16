@@ -32,6 +32,22 @@ Data type: Most of the data is Numeric and Varchar.
 
 ## Questions:
 
+### Question 1: Which items and suppliers generate the highest liquor sales in Montgomery County, and how do these sales compare across different product categories?
+ This question helps identify the top-performing products and suppliers in the county’s liquor market. Knowing which items sell the most provides valuable insights into consumer preferences, market demand, and supply chain performance.
+ 
+ From an economic perspective, this analysis can inform procurement and inventory decisions, ensuring that high-demand products are well-stocked while reducing overstock of slower-moving items. It can also help the Department of Liquor Control and local retailers design targeted promotions or strategic partnerships with key suppliers to maximize sales and efficiency.
+ 
+ From a cultural and social viewpoint, identifying the most popular types of alcoholic beverages can shed light on changing consumption patterns for example, whether customers are shifting toward local craft products, premium spirits, or specific categories like wine or beer.
+
+You want to:
+- Group sales by item and supplier
+
+- Calculate total sales volume (from retail and warehouse)
+
+- See which items and suppliers have the highest total sales
+
+- Optionally, compare across item types (categories)
+
 ## Manipulations Added:
 
 ## Analysis and Results:
