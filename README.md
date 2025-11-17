@@ -8,7 +8,7 @@ Bobby Szramel - [@RSzramel](https://github.com/RSzramel)
 
 Pushpaja Katepalli - [@KPushpaja](https://github.com/KPushpaja)
 
-Andrew Sheehan - 
+Andrew Sheehan - [@ASheehan](https://github.com/AndrewSheehan1234)
 
 Evan Voss - [@evanv5](https://github.com/evanv5)
 
