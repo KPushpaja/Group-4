@@ -77,9 +77,11 @@ You want to:
 
 ## Analysis and Results:
 
+<img width="849" height="381" alt="image" src="https://github.com/user-attachments/assets/40fdf54a-19bf-4f8e-9563-5442d220b987" />
+
 <img width="1824" height="885" alt="image" src="https://github.com/user-attachments/assets/2ee49c4d-fc0f-49bb-9b88-3bf2821dc69b" />
 
-
+This shows which item type was the most profitable and which products are the most profitable. We solved for the total sales revenue and total sales for each category.. We could change our supply according to the result and continue to work with the most profitable suppliers. 
 
 <img width="1401" height="571" alt="image" src="https://github.com/user-attachments/assets/6fd1af56-88ca-47a9-a0bf-1eac8758743a" />
 
