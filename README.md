@@ -69,9 +69,7 @@ You want to:
 - Optionally, break down by item type or category to see if trends differ by product
 
 ## Manipulations Added:
-No manipulations were performed on the dataset prior to or during the analysis. The data was used exactly as originally provided. This approach ensured that the results reflected the raw values without any transformations, filtering, or preprocessing steps. Since the dataset was already complete and in a suitable format for analysis, no further adjustments were necessary. The only manipulation we had was the data type, we changed the data type for item code from number to varchar. 
-
-- Question 1:
+- Question 1: - Question 1:  For question 1 the only manipulations were changing the item code data type from number to varchar because it was not only numbers in the data. The other calculation that was used throughout question 1 was combining retail sales and warehouse sales in order to get total sales. This allowed us to visualize the sales as a whole rather than as seperate groups.
 
 - Question 2:
 
