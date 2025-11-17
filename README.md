@@ -48,6 +48,24 @@ You want to:
 
 - Optionally, compare across item types (categories)
 
+### Question 2: What seasonal trends exist across monthly liquor sales throughout the entire year, and how do these patterns vary from year to year?
+This question helps identify seasonal trends across monthly liquor sales throughout the year and how these patterns vary from year to year. Understanding these trends provides valuable insights into consumer behavior, peak demand periods, and potential fluctuations in supply needs. 
+
+From an economic perspective, this analysis can inform inventory management, staffing, and promotional strategies by highlighting months with higher or lower sales. It also allows the Department of Liquor Control and local retailers to plan targeted marketing campaigns, seasonal promotions, or supplier agreements that align with consumer demand cycles. 
+
+From a cultural and social viewpoint, recognizing seasonal consumption patterns can reveal shifts in customer preferences, such as increased demand for certain beverage types during holidays, summer, or special events, and can guide decisions on product offerings or special events.
+
+You want to:
+- Group sales by month and year
+
+- Calculate total sales volume (from retail and warehouse) per month
+
+
+- Identify peak and low sales months and compare them across years
+
+
+- Optionally, break down by item type or category to see if trends differ by product
+
 ## Manipulations Added:
 
 ## Analysis and Results:
