@@ -10,7 +10,7 @@ Pushpaja Katepalli - [@KPushpaja](https://github.com/KPushpaja)
 
 Andrew Sheehan - 
 
-Evan Voss - 
+Evan Voss - [@evanv5](https://github.com/evanv5)
 
 ## Dataset: Warehouse and Retail Sales
 
