@@ -17,7 +17,9 @@ Evan Voss - [@evanv5](https://github.com/evanv5)
  Source - Data.Gov
 
  Link - https://catalog.data.gov/dataset/warehouse-and-retail-sales
- 
+
+ <img width="676" height="248" alt="image" src="https://github.com/user-attachments/assets/da53fadd-9ed8-4a5c-b6ec-ea71f44a27b1" />
+
 Description:
 
 This dataset contains a list of sales by the month and calendar year. This dataset is updated monthly and records liquor and alcohol sales. It includes a list of sales and movement data by item and department appended monthly. This shows the chain of sales between the Warehouse and retailers, along with the transfers. It helps the company track their highest purchasing retailers, sales trends, demand, and make improvements according to their analysis. We picked this dataset to have an understanding of this industry and how the company uses it to its advantage. 
