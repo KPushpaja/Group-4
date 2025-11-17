@@ -71,7 +71,7 @@ You want to:
 - Optionally, break down by item type or category to see if trends differ by product
 
 ## Manipulations Added:
-- Question 1: - Question 1:  For question 1, the only manipulations were changing the item code data type from number to varchar because it was not only numbers in the data. The other calculation that was used throughout question 1 was combining retail sales and warehouse sales in order to get total sales. This allowed us to visualize the sales as a whole rather than as separate groups.
+- Question 1: For question 1, the only manipulations were changing the item code data type from number to varchar because it was not only numbers in the data. The other calculation that was used throughout question 1 was combining retail sales and warehouse sales in order to get total sales. This allowed us to visualize the sales as a whole rather than as separate groups.
 
 - Question 2: For Question 2, there were simple calculations and aggregations. Additionally, we utilized GROUP BY and ORDER BY functions to sort the data, primarily by YEAR and MONTH. The calculations were simple, dealing with finding total sales and calculating percentages.
 
@@ -82,6 +82,8 @@ You want to:
 <img width="1824" height="885" alt="image" src="https://github.com/user-attachments/assets/2ee49c4d-fc0f-49bb-9b88-3bf2821dc69b" />
 
 This shows which item type was the most profitable and which products are the most profitable. We solved for the total sales revenue and total sales for each category.. We could change our supply according to the result and continue to work with the most profitable suppliers. 
+
+<img width="1011" height="425" alt="image" src="https://github.com/user-attachments/assets/2caa2f12-afc7-44ce-889a-b8cd908338bc" />
 
 <img width="1401" height="571" alt="image" src="https://github.com/user-attachments/assets/6fd1af56-88ca-47a9-a0bf-1eac8758743a" />
 
