@@ -71,6 +71,10 @@ You want to:
 ## Manipulations Added:
 No manipulations were performed on the dataset prior to or during the analysis. The data was used exactly as originally provided. This approach ensured that the results reflected the raw values without any transformations, filtering, or preprocessing steps. Since the dataset was already complete and in a suitable format for analysis, no further adjustments were necessary. The only manipulation we had was the data type, we changed the data type for item code from number to varchar. 
 
+- Question 1:
+
+- Question 2:
+
 ## Analysis and Results:
 
 <img width="1824" height="885" alt="image" src="https://github.com/user-attachments/assets/2ee49c4d-fc0f-49bb-9b88-3bf2821dc69b" />
