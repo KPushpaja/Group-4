@@ -18,7 +18,7 @@ Evan Voss -
 
  Link - https://catalog.data.gov/dataset/warehouse-and-retail-sales
  
-Description: This dataset contains a list of sales by the month and calendar year. This dataset is updated every month and records sales of liqour and alcohol. It contains a list of sales and movement data by item and department appended monthly. This shows the chain of sales between the Warehouse to retailers and the transfers. It helps the company track their highest purschasing retailers, sales trends, demand and make improvements according to their analysis. We picked this dataset to have an understanding of this industry and how the company uses this to their leverage. 
+Description: This dataset contains a list of sales by the month and calendar year. This dataset is updated monthly and records liquor and alcohol sales. It includes a list of sales and movement data by item and department appended monthly. This shows the chain of sales between the Warehouse and retailers, along with the transfers. It helps the company track their highest purchasing retailers, sales trends, demand, and make improvements according to their analysis. We picked this dataset to have an understanding of this industry and how the company uses it to its advantage. 
 
 Dimensions:
 
