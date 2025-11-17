@@ -18,15 +18,17 @@ Evan Voss -
 
  Link - https://catalog.data.gov/dataset/warehouse-and-retail-sales
  
-Description: This dataset contains a list of sales by the month and calendar year. This dataset is updated monthly and records liquor and alcohol sales. It includes a list of sales and movement data by item and department appended monthly. This shows the chain of sales between the Warehouse and retailers, along with the transfers. It helps the company track their highest purchasing retailers, sales trends, demand, and make improvements according to their analysis. We picked this dataset to have an understanding of this industry and how the company uses it to its advantage. 
+Description:
+
+This dataset contains a list of sales by the month and calendar year. This dataset is updated monthly and records liquor and alcohol sales. It includes a list of sales and movement data by item and department appended monthly. This shows the chain of sales between the Warehouse and retailers, along with the transfers. It helps the company track their highest purchasing retailers, sales trends, demand, and make improvements according to their analysis. We picked this dataset to have an understanding of this industry and how the company uses it to its advantage. 
 
 Dimensions:
 
-- Rows: 308k
+- Rows: 307,646
 
 - Columns: 9
 
-- Columns: year, month, supplier,item code, item description, item type, Retail sales, Retail transfers, and warehouse sales. 
+- Columns: Year, Month, Supplier, Item code, Item description, Item type, Retail sales, Retail transfers, & Warehouse sales. 
 
 - Data type: Most of the data is Numeric and Varchar. 
 
@@ -37,7 +39,7 @@ Dimensions:
  
  From an economic perspective, this analysis can inform procurement and inventory decisions, ensuring that high-demand products are well-stocked while reducing overstock of slower-moving items. It can also help the Department of Liquor Control and local retailers design targeted promotions or strategic partnerships with key suppliers to maximize sales and efficiency.
  
- From a cultural and social viewpoint, identifying the most popular types of alcoholic beverages can shed light on changing consumption patterns for example, whether customers are shifting toward local craft products, premium spirits, or specific categories like wine or beer.
+ From a cultural and social viewpoint, identifying the most popular types of alcoholic beverages can shed light on changing consumption patterns, for example, whether customers are shifting toward local craft products, premium spirits, or specific categories like wine or beer.
 
 You want to:
 - Group sales by item and supplier
