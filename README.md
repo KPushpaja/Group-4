@@ -83,6 +83,6 @@ These results help us understand that if there is a correlation between seasons 
 
 ## Snowflake links:
 
-- Question 1:
+- Question 1: https://app.snowflake.com/us-east-1/ekc66140/#/question-1-dOnCEB8zk
 
 - Question 2: https://app.snowflake.com/us-east-1/ksc93446/#/warehouse_and_retail_q2-ddU2gzNYC
