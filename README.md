@@ -73,6 +73,10 @@ No manipulations or additional calculations were performed on the dataset prior 
 
 ## Analysis and Results:
 
+<img width="1824" height="885" alt="image" src="https://github.com/user-attachments/assets/2ee49c4d-fc0f-49bb-9b88-3bf2821dc69b" />
+
+
+
 <img width="1401" height="571" alt="image" src="https://github.com/user-attachments/assets/6fd1af56-88ca-47a9-a0bf-1eac8758743a" />
 
 These results help us understand that if there is a correlation between seasons and sales, and which seasons have a huge impact on the industry and the demand surges during festive seasons. This shows that the company could concentrate on promoting their products during the rest of the year. The sales during the year 2019 was the highest and the warehouse sales were always comparatively higher than the retail sales.  Both of our questions help the company improve sales as we understand the demand and concentrate the marketing efforts of the industry to improve sales. They also help us understand how the industry work and the market trends in the industry. 
