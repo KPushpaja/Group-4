@@ -71,6 +71,11 @@ You want to:
 ## Manipulations Added:
 
 ## Analysis and Results:
+- Question 1:
+
+- Question 2:
+<img width="1401" height="571" alt="image" src="https://github.com/user-attachments/assets/6fd1af56-88ca-47a9-a0bf-1eac8758743a" />
+
 
 ## Snowflake links:
 
