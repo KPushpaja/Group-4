@@ -69,9 +69,9 @@ You want to:
 - Optionally, break down by item type or category to see if trends differ by product
 
 ## Manipulations Added:
-- Question 1: - Question 1:  For question 1 the only manipulations were changing the item code data type from number to varchar because it was not only numbers in the data. The other calculation that was used throughout question 1 was combining retail sales and warehouse sales in order to get total sales. This allowed us to visualize the sales as a whole rather than as seperate groups.
+- Question 1: - Question 1:  For question 1, the only manipulations were changing the item code data type from number to varchar because it was not only numbers in the data. The other calculation that was used throughout question 1 was combining retail sales and warehouse sales in order to get total sales. This allowed us to visualize the sales as a whole rather than as separate groups.
 
-- Question 2:
+- Question 2: For Question 2, there were simple calculations and aggregations. Additionally, we utilized GROUP BY and ORDER BY functions to sort the data, primarily by YEAR and MONTH. The calculations were simple, dealing with finding total sales and calculating percentages.
 
 ## Analysis and Results:
 
