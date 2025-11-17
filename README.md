@@ -69,7 +69,7 @@ You want to:
 - Optionally, break down by item type or category to see if trends differ by product
 
 ## Manipulations Added:
-No manipulations or additional calculations were performed on the dataset prior to or during the analysis. The data was used exactly as originally provided. This approach ensured that the results reflected the raw values without any transformations, filtering, or preprocessing steps. Since the dataset was already complete and in a suitable format for analysis, no further adjustments were necessary. The only manipulation we had was the data type, we changed the data type for item code from number to varchar. 
+No manipulations were performed on the dataset prior to or during the analysis. The data was used exactly as originally provided. This approach ensured that the results reflected the raw values without any transformations, filtering, or preprocessing steps. Since the dataset was already complete and in a suitable format for analysis, no further adjustments were necessary. The only manipulation we had was the data type, we changed the data type for item code from number to varchar. 
 
 ## Analysis and Results:
 
